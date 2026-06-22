@@ -178,4 +178,4 @@ No data is transmitted to any server. No analytics. No cookies. Safe to use with
 MSc Financial Engineering & Management · Karlsruhe Institute of Technology (KIT)
 Previously: Middle Office Analyst, JPMorgan Chase CIB · Data Analytics, TUI Group
 
-[LinkedIn]((https://www.linkedin.com/in/kaviya-gopal-a9a6361a0/)) · [GitHub]((https://github.com/Kaviya04)) · [Live Dashboard](https://finacial-dashboard-sme.netlify.app/)
+[LinkedIn]([https://www.linkedin.com/in/kaviya-gopal-a9a6361a0/]) · [GitHub]([https://github.com/Kaviya04]) · [Live Dashboard](https://finacial-dashboard-sme.netlify.app/)
